@@ -1,10 +1,10 @@
 <?php
 
-namespace LittleSkinChina\BsSocialiteProviderMoeWorld;
+namespace MoeWorld_CN\BsSocialiteProviderMoeWorld;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
-class LittleSkinExtendSocialite
+class MoeWorldExtendSocialite
 {
     /**
      * Execute the provider.
