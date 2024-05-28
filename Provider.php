@@ -1,6 +1,6 @@
 <?php
 
-namespace LittleSkinChina\BsSocialiteProviderLittleSkin;
+namespace MoeWorld_CN\BsSocialiteProviderMoeWorld;
 
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
 use SocialiteProviders\Manager\OAuth2\User;

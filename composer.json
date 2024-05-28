@@ -1,10 +1,10 @@
 {
-    "name": "littleskinchina/bs-socialite-provider-littleskin",
-    "description": "LittleSkin OAuth2 Provider for Laravel Socialite",
+    "name": "kjzh001/moeworld-bs-oauth-provider",
+    "description": "MoeWorld OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Asnxthaony",
-        "email": "asnxthaony@outlook.com"
+        "name": "KJZH001",
+        "email": "sakura@moeworld.top"
     }],
     "require": {
         "php": "^7.2|^8",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LittleSkinChina\\BsSocialiteProviderLittleSkin\\": ""
+            "MoeWorld_CN\\BsSocialiteProviderMoeWorld\\": ""
         }
     }
 }
