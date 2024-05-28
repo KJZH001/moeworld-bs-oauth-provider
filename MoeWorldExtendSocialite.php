@@ -1,6 +1,6 @@
 <?php
 
-namespace MoeWorld_CN\BsSocialiteProviderMoeWorld;
+namespace MoeWorldCN\BsSocialiteProviderMoeWorld;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
