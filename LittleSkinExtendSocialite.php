@@ -11,6 +11,6 @@ class LittleSkinExtendSocialite
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
-        $socialiteWasCalled->extendSocialite('littleskin', __NAMESPACE__.'\Provider');
+        $socialiteWasCalled->extendSocialite('moeworld', __NAMESPACE__.'\Provider');
     }
 }

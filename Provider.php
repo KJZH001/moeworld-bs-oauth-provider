@@ -10,7 +10,8 @@ class Provider extends AbstractProvider
     /**
      * Unique Provider Identifier.
      */
-    const IDENTIFIER = 'LITTLESKIN';
+    // const IDENTIFIER = 'LITTLESKIN';
+    const IDENTIFIER = 'MOEWORLD';
 
     /**
      * {@inheritdoc}
